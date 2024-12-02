@@ -1,0 +1,1192 @@
+@media all and (min-width: 320px) and (max-width: 991px) {
+button.navbar-toggler {
+    padding: 0px !important;
+    position: relative;
+    box-shadow: none !important;
+    outline: none !important; 
+}
+button.navbar-toggler span.navbar-toggler-icon {
+    background: none !important;
+    position: relative;
+    border-top: 2px solid #3e94e4;
+    height: 22px !important;  
+}
+button.navbar-toggler span.navbar-toggler-icon::before {
+    content: ""; 
+    position: absolute;
+    left: 0px; 
+    bottom: 0px;
+    width: 100%;
+    height: 2px;
+    background: #3e94e4;
+}
+button.navbar-toggler span.navbar-toggler-icon::after {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 8px;
+    width: 100%;
+    height: 2px;
+    background: #3e94e4;
+}
+.header-sec .navbar-nav li.nav-item.linkbtn a {
+    margin-left: 0px;
+}
+.header-sec nav.navbar {
+    padding: 15px 0px;
+}
+.header-sec nav.navbar a.navbar-brand {
+        width: 198px;
+}
+.header-sec nav.navbar a.navbar-brand span.logotext {
+    font-size: 40px;
+}
+ul#myNavbar {
+    margin-top: 20px;
+}
+li.nav-item.dropdown.dropdownprofile {
+    margin-bottom: 15px;
+}
+.header-sec .navbar-nav li.nav-item.dropdownprofile .dropdown-menu {
+    position: static;
+}
+.bodybg {
+    /*background-position: center center !important;*/
+}
+.header-sec nav.navbar a.navbar-brand span.logobg {
+    left: 0px;
+}
+#collapsibleNavbar {
+    background: #fff;
+    z-index: 1;
+}
+.modalimgshow iframe {
+    height: 400px;
+}
+.loginseclogo {
+    margin-bottom: 40px;
+}
+.loginseclogo .loginlogo {
+    margin: 0px auto;
+}
+.dashboard-col.navbar li.nav-item.profiledrop .nav-link span {
+    display: none;
+}
+.header-sec .navbar-nav li.nav-item.dropdownprofile .nav-link {
+    margin-left: 15px;
+}
+.loginseclogo .loginlogo .logotext {
+    font-size: 40px;
+}
+.chatlist.chatlistright {
+    padding-left: 0px;
+}
+.chatlist {
+    padding-right: 0px;
+}
+.messageinput .form-control {
+    padding: 22px 84px 22px 10px;
+}
+.attachment {
+    font-size: 22px;
+    right: 44px;
+    top: 7px;
+}
+.attachmentdiv {
+    right: 11px;
+    top: 15px;
+}
+.attachmentdiv .btn.btn-primary {
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    line-height: 38px;
+}
+}
+
+
+
+/*320-991*/
+
+@media all and (min-width: 320px) and (max-width: 359px) {
+.boxdesignwidthmain {
+    transform: scale(0.3516);
+}
+}
+
+@media all and (min-width: 360px) and (max-width: 390px) {
+ .boxdesignwidthmain {
+    transform: scale(0.4);
+}  
+}
+
+@media all and (min-width: 391px) and (max-width: 420px) {
+.boxdesignwidthmain {
+    transform: scale(0.44);
+}    
+}
+
+@media all and (min-width: 421px) and (max-width: 767px) {
+.boxdesignwidthmain {
+    transform: scale(0.47);
+}    
+}
+
+
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+.hiredsec ul li {
+    width: 50%;
+        margin-bottom: 20px;
+}
+.hiredsec {
+    padding: 70px 0px 40px;
+}
+.hiredsec ul li svg.mediabar__item {
+    width: 100%;
+}
+.whychoose-left ul li:nth-child(2) {
+    transform: none;
+}
+.download {
+    display: none;
+}
+.whychoose-right {
+    padding-left: 0px;
+    padding-top: 30px;
+}
+.whyresume-left {
+    padding-top: 30px;
+}
+.paperplane {
+    top: -3px;
+    width: 103px;
+    display: none;
+}
+.mainbanner-text {
+    margin-top: 0px;
+        text-align: center;
+}
+.mainbanner {
+    padding: 30px 0px 80px;
+    min-height: 400px;
+}
+.mainbanner-text h2 {
+    font-size: 36px;
+}
+.mainbanner-text p {
+    font-size: 16px;
+}
+.mainbannerimg {
+    margin-top: 20px;
+}
+.mainbanner-text .btn.btn-info {
+        margin: 10px !important;
+}
+.whychoose-right h2 {
+    font-size: 28px;
+    line-height: 37px;
+}
+.whychoose-right p {
+    font-size: 23px;
+    line-height: 33px;
+}
+.whyresume .aligncenter {
+    margin-bottom: 30px;
+}
+.faqpng {
+    display: none;
+}
+.createsteps {
+    padding: 90px 0px 60px;
+}
+.templatessecway {
+    display: none;
+}
+.templatessecway2 {
+    display: none;
+}
+.heading h2 {
+    font-size: 28px;
+}
+.createsteps-card {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.ourfeatures {
+    padding: 90px 0px;
+}
+.templatessec {
+    padding: 90px 0px 0px;
+}
+.templatesowl .col-md-12 {
+    padding: 0px 15px;
+}
+.carouselitem-desc img.img-fluid {
+    height: auto;
+}
+.clientsecowl-desc {
+    padding: 20px;
+        margin: 20px;
+}
+.owl-carousel.owl-drag .owl-item.active.center {
+    transform: none !important;
+}
+.clientsec .owl-dots {
+    display: none;
+}
+.footerlink {
+    padding-left: 0px;
+    padding-top: 30px;
+}
+.mainfooter h3 {
+    margin-bottom: 10px;
+}
+.footerlink.footerlinktrustpilot {
+    padding-top: 30px;
+}
+.copyright {
+    text-align: center;
+}
+.copyright ul {
+    text-align: center;
+}
+.copyright ul li a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mainfooter {
+    padding: 50px 0px 0px 0px;
+}
+.dashboardheader {
+    padding: 20px 15px;
+    border-radius: 0px;
+    margin: 0px;
+}
+.mainbody {
+    padding: 15px;
+    min-height: auto;
+}
+.sidebar {
+    width: 100%;
+    position: static;
+}
+.rightbody {
+    margin-left: 0px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.dashboardleft ul {
+    display: none;
+}
+.mobilenav {
+    display: block;    
+    padding: 20px 15px 0px 15px
+}
+.mobilenav .dashboardleft ul{
+    display: block;
+    padding: 0px;
+}
+.dashboardleft ul li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.dashboardleft ul li a {
+    font-size: 14px;
+    padding: 11px 24px;
+}
+.dashboardleft ul li a img.img-fluid {
+    width: 21px;
+}
+.sidebarcol {
+    margin-bottom: 20px;
+}
+.cvform-heading h2 {
+    padding-right: 23px;
+}
+.btn.btn-info {
+    font-size: 14px;
+    padding: 13px 24px;
+}
+#msform .action-button {
+    min-width: auto;
+}
+#msform .action-button-previous {
+    min-width: auto;
+}
+.addrow {
+    padding-right: 0px;
+}
+.addbtn {
+    position: static;
+    padding: 0px 0px 20px 15px;
+}
+.addmore {
+    padding-right: 0px;
+}
+.additional-section ul li {
+    width: 100%;
+}
+.resumestyles.resumelayout .form-check-label span img.img-fluid {
+    height: auto;
+}
+.mainbody.containeruse {
+    padding: 15px 0px 0px 0px;
+}
+.congratulations-top h2 {
+    font-size: 29px;
+}
+.congratulations-top .btn.btn-info {
+    margin: 10px 10px;
+}
+.congratulationsbox {
+    margin-bottom: 30px;
+}
+.settingspagemain.cvform {
+    margin: 30px auto;
+}
+.subscriptionnow .btn.btn-info {
+    position: static;
+    margin-top: 10px;
+}
+.innerheading h2 {
+    font-size: 28px;
+}
+.loginpage {
+    padding: 5px;
+}
+.logindesign {
+    padding: 30px 20px;
+}
+.sharepage .heading {
+    margin-top: 30px;
+    padding: 30px 20px;
+}
+.team-card {
+    margin-bottom: 30px;
+}
+.blogcardright .blogcard .blogcard-img {
+    position: static;
+    width: auto;
+    min-height: auto;
+}
+.blogcardright .blogcard {
+    min-height: auto;
+    padding-left: 0px;
+}
+.blogcardright .blogcard .blogcard-desc {
+    padding: 20px 0px 30px;
+}
+.pagination-list ul li a.previous {
+    position: static;
+}
+.pagination-list ul li a.next {
+    position: static;
+}
+.headingtopright {
+    text-align: left;
+    margin-top: 15px;
+}
+.boxdesignwidthmain {
+    width: 820px;
+    transform-origin: 0 0;
+    margin-top: 30px;
+}
+.boxdesignwidthmain .col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.space100 {
+    height: 100px;
+}
+.resumeheight {
+    height: 100vh;
+}
+.improvepage .boxdesignwidthmain {
+    margin: 0px;
+}
+.footerlogo a.footerlogolink {
+    width: 250px;
+}
+.footerlogo a.footerlogolink span.logobg {
+    left: -5px;
+}
+.mainbanner-text h3 {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.mainbanner-text .btn.btn-info {
+    font-size: 18px;
+}
+.whychoose-left ul li {
+    width: 100%;
+}
+.whychoose-lefttext {
+    padding: 0px 40px;
+}
+.headingnew h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    line-height: 43px;
+}
+.headingnew p {
+    font-size: 23px;
+    margin-bottom: 25px;
+    line-height: 33px;
+}
+.headingnew ul.checks li {
+    font-size: 23px;
+}
+.ourfeatures::after{
+    display: none;
+}
+.loopowl-carouselowl-theme .item {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.settingspagemain.cvform .boxdesign {
+    padding: 30px 20px;
+}
+.logindesign-heading h2 {
+    font-size: 25px;
+}
+.settingspagemain h2 {
+    font-size: 25px;
+}
+.clientsec.salaries-calculator {
+    padding: 0px 0px 70px;
+}
+.salaries-calculator-form {
+    padding: 20px;
+}
+.calculator-result {
+    padding: 30px 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.calculator-result ul.nav.nav-tabs li.nav-item .nav-link {
+    padding: 10px 10px;
+    font-size: 15px;
+}
+.calculator-result-col-list li {
+    width: 100%;
+}
+.calculator-result-coldata {
+    padding: 10px 0px 10px 0px;
+        margin-bottom: 30px
+}
+.calculator-result-coldata h3 {
+    margin-bottom: 10px;
+}
+.calculator-result-coldata h5 {
+    position: static;
+}
+.resumepdflist li {
+    width: 100%;
+}
+.resumepdflist-card {
+    margin-bottom: 20px;
+}
+.progileright {
+    margin-top: 40px;
+}
+.welcometop-sec {
+    margin-bottom: 30px;
+    padding: 30px;
+}
+.resumeupload-list h2 span {
+    position: static;
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+}
+.pendingstatus .uploadmodal-body {
+    padding: 0px;
+}
+.uploadmodal-body ul.side_bar_lis li {
+    font-size: 13px;
+}
+.uploadmodal-body ul.side_bar_lis li a {
+    padding: 1px 12px;
+    font-size: 12px;
+}
+.generic_head_price {
+    padding: 30px 20px;
+}
+.generic_feature_list {
+    padding: 30px 20px;
+}
+.generic_content {
+    margin-bottom: 30px;
+}
+.choosePlan {
+    margin-bottom: 0px;
+}
+.generic_price_tag .currency {
+    font-size: 32px;
+}
+.recaptchadesign .g-recaptcha {
+    transform: scale(0.82);
+}
+.recaptchadesign {
+    margin: 0px;
+}
+.inner-sec {
+    padding: 60px 0px;
+}
+.generic_head_price::before {
+    rotate: 355deg;
+}
+.upgradesubscription .cvform-heading h2 {
+    font-size: 24px;
+    padding: 0px;
+}
+.transationhistory tr td {
+    min-width: 120px;
+}
+.recaptchadsign {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.centerrow .png {
+    bottom: -60px;
+    width: 200px;
+    transform: translateX(-50%) translateY(-0%);
+    left: 50%;
+}
+.topbar {
+    display: none;
+}
+.centerrow .png2 {
+    bottom: -60px;
+    width: 200px;
+    left: 50%;
+}
+.pnglast {
+     width: 100px;
+    left: 50%;
+    margin: 0px;
+    bottom: -110px;
+}
+.pricetable {
+    padding-top: 80px;
+}
+.footernew::after{
+     display: none;
+}
+.newstep-text h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    padding: 0px;
+    margin-top: 27px;
+    /*text-shadow: 0px 0px 3px #6ea2ff;*/
+}
+.pricetable-heading h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    padding: 0px;
+    /*text-shadow: 0px 0px 3px #6ea2ff;*/
+}
+.infosecbg h2 {
+        font-size: 27px;
+    margin-bottom: 11px;
+    line-height: 30px;
+    padding: 0px;
+    /*text-shadow: 0px 0px 3px #6ea2ff;*/
+}
+.s-calculator-in {
+    padding: 30px 20px;
+}
+.s-calculator-in h3 {
+    font-size: 26px;
+}
+.s-calculator-in p {
+    font-size: 16px;
+    margin-bottom: 23px;
+}
+.copyright.copyrightnew {
+    padding: 20px 0px 20px;
+}
+.infosecbg {
+    padding: 30px 20px;
+    border-radius: 16px;
+}
+.infosecbg p {
+    font-size: 22px;
+}
+.newstepimg {
+    padding: 20px 0px 30px;
+    text-align: center;
+}
+.s-calculator-right {
+    padding: 0px 0px;
+    margin-top: 30px;
+}
+.footernew .col-md-6 {
+    padding: 0px 20px;
+}
+.s-calculator-left h2 {
+    font-size: 28px;
+    /*text-shadow: 0px 0px 3px #6ea2ff;*/
+    margin-bottom: 30px;
+    line-height: 30px;
+    padding: 0px;
+}
+.newbanner {
+    padding: 0px 0px 0px 0px;
+}
+.centerrow {
+    margin-bottom: 60px;
+    position: relative;
+}
+.centerrow:nth-child(2) .col-md-6:nth-child(1) {
+    order: 1;
+}
+.centerrow:nth-child(4) .col-md-6:nth-child(1) {
+    order: 1;
+}
+.pricetable img.img-fluid.shape_2 {
+    display: none;
+}
+.pricetable .shape_3 {
+    display: none;
+}
+.footerright h6 {
+    font-size: 21px;
+}
+.supportul {
+    margin: 20px 0px 20px 0px;
+}
+.newstepimg img.img-fluid {
+    width: 160px;
+}
+.newbanner .col-md-6 {
+    position: static;
+}
+.job-preference-sec {
+    padding: 40px 0px;
+}
+.upgradeplan ul li {
+    width: 100%;
+    padding-bottom: 15px;
+}
+.upgradespan {
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+.transationhistory-heading {
+    display: block;
+    align-items: center;
+}
+.transationhistory-heading .transationhistory-table {
+    position: static;
+    margin: 0px;
+}
+.transationhistory-table .btn.btn-info {
+    padding: 10px 23px;
+    margin-top: 10px;
+}
+}
+/*320-767*/
+
+@media all and (min-width: 768px) and (max-width: 991px) {
+.space100 {
+    height: 100px;
+}
+.resumeheight {
+    height: 100vh;
+}
+.boxdesignwidthmain {
+    width: 820px;
+    transform-origin: 0 0;
+    transform: scale(0.4);
+}
+.footerlogo {
+    padding-right: 0px;
+}
+.footerlogo a.footerlogolink span.logotext {
+    font-size: 24px;
+}
+.footerlogo a.footerlogolink span.logobg {
+    width: 230px;
+}
+.footerlogo a.footerlogolink span.logobg label {
+    font-size: 14px;
+}
+.final-resume .boxdesignwidthmain {
+    transform: scale(0.71);
+}
+.welcometop-sec {
+    padding: 40px;
+    margin-bottom: 30px;
+}
+.resumepdflist li {
+    width: 50%;
+    padding: 0px 15px;
+}
+.g-recaptcha {
+    transform: scale(0.539);
+    transform-origin: 0 0;
+}
+.form-group.recaptcha-design {
+    margin-bottom: -17px;
+}
+
+}
+/*768-991*/
+
+@media all and (min-width: 992px) and (max-width: 1024px) {
+.space100 {
+    height: 100px;
+}
+.resumeheight {
+    height: 100vh;
+}
+.boxdesignwidthmain {
+    width: 820px;
+    transform-origin: 0 0;
+    transform: scale(0.63);
+}
+.footerlogo a.footerlogolink span.logotext {
+    font-size: 24px;
+}
+.footerlogo a.footerlogolink span.logobg {
+    width: 230px;
+}
+.footerlogo a.footerlogolink span.logobg label {
+    font-size: 14px;
+}
+.final-resume .boxdesignwidthmain {
+    transform: scale(0.93);
+}
+.g-recaptcha {
+    transform: scale(0.539);
+    transform-origin: 0 0;
+}
+.form-group.recaptcha-design {
+    margin-bottom: -16px;
+}
+.png {
+    bottom: -220px;
+}
+.png2 {
+    bottom: -220px;
+}
+}
+/*992-1024*/
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+.mainbanner-text {
+    margin-top: 0px;
+}
+.mainbanner-text h2 {
+    font-size: 34px;
+    margin-bottom: 19px;
+}
+.mainbanner-text .btn.btn-info {
+    margin: 0px 10px 10px 0px;
+}
+.mainbanner-text p {
+    font-size: 16px;
+    margin-bottom: 26px;
+}
+.mainbannerimg {
+    margin-top: 0px;
+}
+.mainbanner::after {
+    border-bottom: 37.2rem solid #f1f8fe;
+}
+.hiredsec ul li {
+    width: 33.33%;
+    padding: 0px 15px;
+}
+.templatessecway {
+    display: none;
+}
+.templatessecway2 {
+    display: none;
+}
+.download {
+    right: -90px;
+}
+.createsteps-cardin {
+    min-height: 130px;
+}
+.createsteps-cardin h3 {
+    font-size: 16px;
+}
+.custom {
+    width: 51px;
+}
+.whychoose-right h2 {
+    font-size: 28px;
+    line-height: 34px;
+}
+.whychoose-right p {
+    font-size: 23px;
+    line-height: 31px;
+}
+
+.whyresume .aligncenter {
+    margin-bottom: 30px;
+}
+.footerlogo a.footerlogolink {
+    width: auto;
+}
+ul.social-link li a {
+    margin: 0px 10px 10px 0px;
+}
+.copyright ul li a {
+    margin-left: 15px;
+        font-size: 14px;
+}
+.copyright p {
+    font-size: 14px;
+}
+.carouselitem-desc img.img-fluid {
+    height: auto;
+}
+.dashboardleft ul li a {
+    font-size: 14px;
+    padding: 11px 20px;
+}
+.dashboardleft ul li a img.img-fluid {
+    width: 21px;
+}
+.dashboardlogo {
+    width: 140px;
+}
+.dashboardleft ul {
+    padding: 0px 0px 0px 20px;
+}
+.dashboardheader {
+    padding: 20px 20px;
+}
+.dashboard-col ul.navbar-nav li.nav-item {
+    margin-left: 0px;
+}
+.dashboard-col ul.navbar-nav li.nav-item a.nav-link {
+    padding: 10px 14px;
+}
+.addrow {
+    padding-right: 0px;
+}
+.addbtn {
+    position: static;
+    padding: 0px 0px 20px 15px;
+}
+.addmore {
+    padding-right: 0px;
+}
+.additional-section ul li {
+    width: 50%;
+}
+.additionalbtn {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+.additionalbtn .la-plus {
+    top: 12px;
+    font-size: 18px;
+}
+.congratulations-top .btn.btn-info {
+    margin: 10px 10px;
+}
+.subscribecard {
+    padding: 40px 20px 50px;
+}
+.subscribecard .btn.btn-info {
+    padding: 13px 24px;
+}
+.team-desc h3 {
+    font-size: 14px;
+}
+.team-desc h5 {
+    font-size: 15px;
+}
+.team-desc {
+    padding: 22px 20px;
+}
+.improvepage .boxdesignwidthmain {
+    width: auto;
+    transform: none;
+    transform-origin: unset;
+    margin: 0px;
+}
+.dashboardlogo .logotext {
+    font-size: 23px;
+    margin-top: 6px;
+}
+.mainbanner-text h3 {
+    font-size: 28px;
+    margin-bottom: 40px;
+    line-height: 1.3;
+}
+.whychoose-lefttext {
+    padding: 0px 24px;
+}
+.whychoose-left ul li h3 {
+    font-size: 17px;
+}
+.whychoose-left ul li h3 {
+    font-size: 17px;
+}
+.whychoose-left ul li span.videobtn {
+    font-size: 12px;
+    padding: 0px 10px;
+    line-height: 34px;
+}
+.headingnew h2 {
+    font-size: 34px;
+    line-height: 47px;
+}
+.headingnew p {
+    font-size: 23px;
+    margin-bottom: 25px;
+    line-height: 30px;
+}
+.headingnew ul.checks li {
+    font-size: 23px;
+    margin-bottom: 8px;
+    line-height: 1.2;
+}
+.loopowl-carouselowl-theme .item {
+    width: 50%;
+}
+.item-img h4 {
+    font-size: 17px;
+}
+.clientsecowl-desc p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.clientsec.salaries-calculator {
+    padding: 20px 0px 90px;
+}
+.salaries-calculator-form {
+    padding: 20px;
+}
+.calculator-result-coldata {
+    padding: 10px 0px 10px 0px;
+        margin-bottom: 30px
+}
+.calculator-result-coldata h3 {
+    margin-bottom: 10px;
+}
+.calculator-result-coldata h5 {
+    position: static;
+    font-size: 16px;
+}
+.salaries-calculator.salaries-calculator-form input.btn.btn-info {
+    padding: 14px 10px;
+    font-size: 14px;
+}
+.choosePlan .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.generic_content {
+    margin-bottom: 30px;
+}
+.choosePlan {
+    margin-bottom: 0px;
+}
+.recaptchadesign .g-recaptcha {
+    transform: scale(0.759);
+}
+.recaptchadesign {
+    margin: 0px;
+}
+.upgradesubscription .generic_head_price::before {
+    rotate: 357deg;
+}
+.transationhistory tr td {
+    min-width: 120px;
+}
+.generic_price_btn .btn.btn-info {
+    padding: 13px 10px;
+}
+.newstepimg {
+    padding: 0px 30px;
+}
+.newstep-text h3 {
+    font-size: 30px;
+    line-height: 36px;
+    padding: 0px;
+}
+.pricetable-heading h2 {
+    font-size: 40px;
+}
+.infosecbg h2 {
+    font-size: 40px;
+}
+.infosecbg p {
+    font-size: 25px;
+}
+.s-calculator-left h2 {
+    font-size: 37px;
+}
+.s-calculator-in {
+    padding: 30px 20px;
+}
+.s-calculator-in h3 {
+    font-size: 28px;
+}
+.s-calculator-in p {
+    font-size: 16px;
+    margin-bottom: 22px;
+    line-height: 24px;
+}
+.s-calculator-right {
+    padding: 0px 0px;
+}
+.copyright.copyrightnew {
+    padding: 20px 0px 20px;
+}
+.job-preference-sec .col-md-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+}
+/*768-1024*/ 
+
+
+@media all and (min-width: 1025px) and (max-width: 1199px) {
+ul.social-link li a {
+    margin: 0px 10px 10px 0px;
+}
+.carouselitem-desc img.img-fluid {
+    height: auto;
+}
+.templatessecway2 {
+    bottom: -30px;
+}
+.templatessecway {
+    top: -30px;
+}
+.mainbanner-text .btn.btn-info.info1 {
+    margin-right: 10px;
+}
+.mainbanner-text {
+    margin-top: 0px;
+}
+.mainbannerimg {
+    margin-top: 0px;
+}
+.additionalbtn {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+.additionalbtn .la-plus {
+    top: 12px;
+    font-size: 18px;
+}
+.space100 {
+    height: 100px;
+}
+.resumeheight {
+    height: 100vh;
+}
+.boxdesignwidthmain {
+    width: 820px;
+    transform-origin: 0 0;
+    transform: scale(0.66);
+}
+.improvepage .boxdesignwidthmain {
+    width: auto;
+    transform: none;
+    transform-origin: unset;
+    margin: 0px;
+}
+.whychoose-left ul li span.videobtn {
+    font-size: 12px;
+    padding: 0px 10px;
+    line-height: 34px;
+}
+.final-resume .boxdesignwidthmain {
+    transform: scale(0.97);
+}
+.salaries-calculator.salaries-calculator-form input.btn.btn-info {
+    padding: 14px 10px;
+    font-size: 14px;
+}
+.generic_head_price {
+    padding: 30px 20px;
+}
+.generic_feature_list {
+    padding: 30px 20px;
+}
+.generic_price_tag .currency {
+    font-size: 23px;
+}
+.generic_price_tag .sign {
+    font-size: 17px;
+    top: -12px;
+}
+.generic_price_tag .month {
+    font-size: 15px;
+}
+.generic_head_content span {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.generic_head_price::before {
+    height: 108px;
+}
+.generic_feature_list ul li {
+    font-size: 14px;
+}
+.g-recaptcha {
+    transform: scale(0.56);
+    transform-origin: 0 0;
+}
+.recaptchadesign .g-recaptcha {
+    transform: scale(0.96);
+}
+.generic_price_btn .btn.btn-info {
+    padding: 13px 10px;
+}
+.s-calculator-right {
+    padding: 0px 0px;
+}
+.newstep-text h3 {
+    font-size: 40px;
+    line-height: 47px;
+    padding: 30px 0px;
+}
+}
+/*1025-1199*/ 
+
+@media all and (min-width: 1200px) and (max-width: 1330px) {
+.generic_price_tag .currency {
+    font-size: 31px;
+}
+.generic_price_tag .sign {
+    font-size: 21px;
+    top: -20px;
+}
+}
+/*1200-1280*/ 
+@media all and (min-width: 1800px) and (max-width: 2100px) {
+
+}
+
+
+@media all and (min-width: 2101px) and (max-width: 2400px) {
+
+}
+
+@media all and (min-width: 2401px) and (max-width: 2800px) {
+
+}
+
+
+
+    
+    
+
+
+

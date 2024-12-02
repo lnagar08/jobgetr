@@ -1,0 +1,229 @@
+
+/*template4*/
+.temp-user-info4 {
+    background: #bd7c6d;
+    padding: 40px;
+}
+.temp-user-img4 img.img-fluid {
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+}
+.temp-user-img4 {
+    text-align: right;
+}
+.temp-user-name4 {
+    color: #fff;
+}
+.temp-user-name4 h2 {
+    font-size: 37px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    line-height: 33px;
+    margin-bottom: 10px;
+}
+.temp-user-name4 h3 {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.temp-user-name4 h6 {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.temp-user-name4 ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.temp-user-name4 ul li {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 20px;
+    position: relative;
+}
+.temp-user-name4 ul li::after {
+    content: "";
+    position: absolute;
+    right: 8px;
+    top: 4px;
+    width: 1px;
+    height: 14px;
+    background: #fff;
+}
+.temp-user-name4 ul li:last-child::after {
+    display: none;
+} 
+.templates4-leftrightspace {
+    padding: 40px;
+}
+.templates4-intro {
+    margin-bottom: 30px;
+}
+.temp-personal-details4 {
+    padding-bottom: 20px !important;
+}
+.temp-personal-details4 h6 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    margin: 0px;
+}
+.temp-personal-details4 h6 span {
+    margin-right: 10px;
+}
+.templates4-intro h3 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.temp-heading4 {
+    color: #bd7c6d;
+    font-size: 24px;
+    line-height: 25px;
+    font-weight: 800;
+    margin: 0px 0px 14px 0px;
+    text-transform: capitalize;
+}
+.temp-exp-desc4-main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.temp-exp-desc4-left {
+    padding-right: 10px;
+    width: 25%;
+}
+.temp-exp-desc4-right {
+    padding-left: 10px;
+    width: 75%;
+}
+.temp-exp-desc4-left h6 {
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+.temp-exp4 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.temp-exp-title4 {
+    width: 50%;
+    padding-right: 10px;
+}
+.temp-exp-title4 h3 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-exp-title4 h3 span {
+    display: block;
+    font-weight: 400;
+}
+.temp-exp-title44 {
+    width: 50%;
+    text-align: right;
+    padding-left: 10px;
+}
+.temp-exp-title44 h3 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-exp-desc4-right ul {
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.temp-exp-desc4-right li {
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.temp-exp-desc4-right li::marker {
+    color: #bd7c6d;
+}
+.temp-exp-desclist4 ul {
+    display: flex;
+    margin: 0px -10px;
+    padding: 0px;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.temp-exp-desclist4 ul li {
+    width: 50%;
+    padding: 0px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 9px;
+}
+.temp-exp-desclist4 ul li span {
+    width: 50%;
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    display: block;
+    padding-right: 15px;
+}
+.temp-exp-desclist4 ul li .progress {
+    width: 50%;
+    height: 12px;
+    background: none;
+    border: 1px solid #bd7c6d;
+    border-radius: 15px;
+}
+.temp-exp-desclist4 ul li .progress .progress-bar {
+    background: #bd7c6d;
+}
+.temp-exp-desclist4 {
+    width: 100%;
+}
+.temp-exp-desc4-main {
+    padding-bottom: 10px;
+}
+.temp-exp-desc4 {
+    padding-bottom: 10px;
+}
+.temp-exp-desc4-main h4 {
+    color: #000;
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-exp-desc4 p {
+    color: #000;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+.temp-exp-title4 h3 a {
+    display: block;
+    font-weight: 400;
+    color: #000;
+}
+.temp-exp-desc4rightmain {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.temp-exp-desc4rightmain-left {
+    width: 100%;
+}
+.temp-exp-desc4rightmain-right {
+    width: 100%;
+}
+/*ANSHUMAN*/
+.image_icon{
+    width: 15px;
+}
+/*template4*/

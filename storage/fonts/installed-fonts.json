@@ -1,0 +1,29 @@
+{
+    "kalam": {
+        "normal": "kalam_normal_b4f79d4f7c55bc4934177622fbc154c4",
+        "300": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/kalam_300_b799b62f2f45e0e4fba2edf4e095b3a3",
+        "bold": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/kalam_bold_8cb22151368a355dcb7248c43aa58256"
+    },
+    "space mono": {
+        "italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/space_mono_italic_d35bb5c2445bf4c81586669244a6d3f5",
+        "bold_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/space_mono_bold_italic_7f99bb85a3f24d522df957feefec4074",
+        "normal": "space_mono_normal_31d2300f1b4940be1d3dbe5204b7ed07",
+        "bold": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/space_mono_bold_82c8068d612ac3d93837dc41536775f2"
+    },
+    "ibm plex mono": {
+        "100_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_100_italic_231c79e44bb50649df583fbaff804a9e",
+        "200_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_200_italic_f607eb731ecfa41ff2599ee3c7c70c43",
+        "300_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_300_italic_f5701392d03ecc41e0c83f9e1ffca52e",
+        "italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_italic_4ea4cb480c57e25039333123ad023cd0",
+        "500_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_500_italic_619ff6339f9bb6049275e17664aa8fe9",
+        "600_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_600_italic_321d252d2739fb2231f6ef9d928c395a",
+        "bold_italic": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_bold_italic_3587a755f80fcefe45229cddd486c4b8",
+        "100": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_100_d456975ee51802d56c785b653a9f7506",
+        "200": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_200_b372bc69965e9a588c4d1ab0e745f3c0",
+        "300": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_300_d46d0788ab641ab575c57a7a5bf8a899",
+        "normal": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_normal_775510607aecb78c48ba3ba4a647fd61",
+        "500": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_500_ffd5c923e396a07f921fbe56321afb08",
+        "600": "ibm_plex_mono_600_ec7ca1a5cd54e4ebb3ccf45fcba8678f",
+        "bold": "\/home\/daedalt\/jobgetr.daedaltech.online\/storage\/fonts\/ibm_plex_mono_bold_bf06616d8c679ac632ffd594b2b908df"
+    }
+}

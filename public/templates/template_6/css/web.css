@@ -1,0 +1,172 @@
+/*template6*/
+.temp-user-info6 {
+    padding: 40px 50px;
+    background: #245610;
+}
+.temp-user-name6 h2 {
+    font-size: 31px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    line-height: 32px;
+    margin-bottom: 10px;
+}
+.temp-user-name6 h3 {
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+.temp-user-address6 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.temp-user-address6 h6 {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.temp-user-address6 h6 span {
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 1px solid #fff;
+}
+.temp-user-address6 ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.temp-user-address6 ul li {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+}
+.templates6-intro {
+    padding-top: 10px;
+}
+.templates6-intro h3 {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.templates6-leftrightspace {
+    padding: 40px 50px;
+}
+.temp-exp-desc6 {
+    padding-bottom: 25px;
+}
+.temp-heading6 {
+    color: #245610;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin: 0px 0px 15px 0px;
+}
+.temp-personal-details6 h6 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    margin: 0px;
+}
+.temp-personal-details6 h6 span {
+    margin-right: 10px;
+}
+.temp-exp-desc6-main {
+    padding-bottom: 10px;
+}
+.temp-exp6 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.temp-exp-title6 {
+    padding-right: 10px;
+    width: 65%;
+}
+.temp-exp-title6 h3 {
+    color: #000;
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-exp-title6 h3 span {
+    display: block;
+    font-weight: 400;
+}
+.temp-exp-date6 {
+    margin-left: auto;
+    padding-left: 10px;
+    width: 35%;
+}
+.temp-exp-date6 h6 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    margin: 0px;
+    text-align: right;
+}
+.temp-exp-desc6-main h4 {
+    color: #000;
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-exp-desc6-main ul {
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.temp-exp-desc6-main li {
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.temp-exp-desc6-main li::marker {
+    color: #245610;
+}
+.temp-exp-title6 h6 {
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+.temp-exp-desclist6 ul {
+    display: flex;
+    margin: 0px -10px;
+    padding: 0px !important;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.temp-exp-desclist6 ul li {
+    width: 50%;
+    padding: 0px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 9px;
+}
+.temp-exp-desclist6 ul li span {
+    width: 50%;
+    color: #000;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    display: block;
+    padding-right: 15px;
+}
+.temp-exp-desclist6 ul li .progress {
+    width: 50%;
+    height: 12px;
+    background: none;
+    border: 1px solid #245610;
+    border-radius: 15px;
+}
+.temp-exp-desclist6 ul li .progress .progress-bar {
+    background: #245610;
+}
+
+/*template6*/

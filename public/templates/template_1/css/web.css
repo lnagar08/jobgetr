@@ -1,0 +1,149 @@
+/*template1*/
+.temp-user-info {
+    background: #4d5279;
+    padding: 30px;
+}
+.temp-user-img {
+    display: flex;
+    align-items: center;
+}
+.temp-user-img img.img-fluid {
+    width: 85px;
+    height: 85px;
+    border-radius: 100%;
+}
+.temp-user-name {
+    padding-left: 20px;
+}
+.temp-user-name h2 {
+    font-size: 29px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+.temp-user-name h3 {
+    color: #fff;
+    font-size: 20px;
+    margin: 0px;
+    font-weight: 400;
+}
+.temp-user-address {
+    color: #fff;
+    text-align: right;
+    padding-left: 50px;
+}
+.temp-user-address h6 {
+    font-size: 14px;
+    font-weight: 400;
+        margin-bottom: 10px;
+}
+.temp-user-address p {
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.temp-body {
+    display: flex;
+    flex-wrap: wrap;
+}
+.temp-body-left {
+    width: 65%;
+    padding: 30px;
+}
+.temp-body-left h3 {
+    color: #000;
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.temp-body-left .temp-heading {
+    margin: 0px 0px 10px 0px;
+    padding-top: 10px;
+}
+.temp-exp {
+    display: flex;
+}
+.temp-exp-date h6 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    margin: 0px;
+    text-align: right;
+}
+.temp-exp-title {
+    padding-right: 10px;
+        width: 65%;
+}
+.temp-exp-date {
+    margin-left: auto;
+    padding-left: 10px;
+     width: 35%;
+}
+.temp-exp-desc ul {
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.temp-exp-desc li {
+    color: #000;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+.temp-exp-desc p {
+    color: #000;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 10px;
+} 
+.temp-exp-desc {
+    padding-bottom: 15px;
+}
+.temp-body-right {
+    width: 35%;
+    padding: 30px;
+    background: #f5f5f5;
+}
+.temp-heading {
+    color: #4d5279;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 700;
+    margin: 0px 0px 10px 0px;
+    text-transform: capitalize;
+}
+.temp-body-right ul {
+    margin: 0px 0px 20px 0px;
+    padding-left: 20px;
+}
+.temp-body-right ul li {
+    color: #000;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 7px;
+}
+.temp-body-right ul li span {
+    color: #4d5279;
+}
+.temp-body-left h3 span {
+    display: block;
+    font-weight: 400;
+}
+.temp-body-left h3 a {
+    font-weight: 400;
+    color: #000;
+    display: block;
+}
+.temp-personal-details h6 span {
+    margin-right: 10px;
+}
+.temp-personal-details h6 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    margin: 0px;
+}
+/*ANSHUMAN*/
+.image_icon{
+    width: 15px;
+}
+/*template1*/
